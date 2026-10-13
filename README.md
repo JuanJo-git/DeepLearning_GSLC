@@ -21,8 +21,8 @@ antar-kondisi transfer learning berada dalam kisaran noise. Analisis lengkap ada
 
 ## Struktur repositori
 ```
-Sesi05_Transfer_Learning.ipynb   # seluruh kode eksperimen (sudah dieksekusi, lengkap dengan output)
-Laporan_DeepLearning.pdf               # laporan analisis (ganti dengan nama berkas laporan Anda)
+Sesi05_Transfer_Learning.ipynb   # seluruh kode eksperimen 
+Laporan_DeepLearning.pdf               # laporan analisis 
 requirements.txt
 results/
   metrics_summary.csv            # ringkasan per eksperimen (sumber angka laporan)
