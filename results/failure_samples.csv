@@ -1,0 +1,7 @@
+file,ground_truth,prediction,confidence
+data/oxford-iiit-pet/images/pug_74.jpg,Pug,Boxer,0.964762806892395
+data/oxford-iiit-pet/images/Bengal_143.jpg,Bengal,Abyssinian,0.6578819751739502
+data/oxford-iiit-pet/images/Siamese_150.jpg,Siamese,Abyssinian,0.6413748264312744
+data/oxford-iiit-pet/images/Abyssinian_150.jpg,Abyssinian,Bengal,0.52065110206604
+data/oxford-iiit-pet/images/Bengal_34.jpg,Bengal,Abyssinian,0.48969313502311707
+data/oxford-iiit-pet/images/shiba_inu_156.jpg,Shiba Inu,Beagle,0.3795107305049896
